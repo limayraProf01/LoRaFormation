@@ -51,5 +51,5 @@ void loop() {
   LoRa.endPacket();  
   //----- Fin émission LoRa --------
   N++;
-  delay(2000);
+  delay(5000);
 }//loop()
